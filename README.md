@@ -2,6 +2,8 @@
 
 This repository contains a detailed analysis of customer churn using the Databel dataset. The analysis was conducted in Power BI, where various aspects of the data were explored to identify key factors contributing to customer churn.
 
+![Customer Churn Analysis Overview](Pic.png)
+
 ## Power BI Report Overview
 
 The Power BI report is organized into several pages, each focusing on different aspects of the dataset:
